@@ -1,0 +1,22 @@
+.buy-now-button{
+    background-color: black ;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.container{
+    margin-bottom: 80px;
+}
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px lightgray;
+}
+.link{
+    text-decoration: none;
+    color: #FFA617;
+    size: 40px;
+    padding-bottom: 10px;
+}
